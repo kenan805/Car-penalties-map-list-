@@ -1,0 +1,3 @@
+﻿  Ex24Map.cpp
+C:\Users\user\source\repos\OopEx24Map\OopEx24Map\Ex24Map.cpp(82,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OopEx24Map.vcxproj -> C:\Users\user\source\repos\OopEx24Map\Debug\OopEx24Map.exe
